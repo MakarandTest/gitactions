@@ -1,7 +1,9 @@
 class HelloWorld { 
   public static void main(String[] args) { 
-    String ApiToken = "0afa0fa0dfa54534adfdfdfadfdf";
-    String Password = "Abc@1234";
-    System. out. println("Hello World3!"); // Hello World3! 
+    String apiToken = "0afa0fa0dfa54534adfdfdfadfdf";
+    String password = "Abc@1234";
+    System. out. println(apiToken); 
+    System. out. println(password); 
+    
   } 
 }
